@@ -6,10 +6,8 @@ service cloud.firestore {
     }
     
     match /pizzaStore/{pizzaUuid} {
-      allow create: if isValid();
-      allow update: if isValid();
-      allow get: if true;
-      allow list: if true;
+      allow create, update: if isValid();
+      allow get, list: if true;
     }
   }
 }
