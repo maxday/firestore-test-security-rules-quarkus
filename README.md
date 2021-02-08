@@ -1,4 +1,4 @@
-###Test your Firestore security rules with TestContainers and Quarkus
+### Test your Firestore security rules with TestContainers and Quarkus
 
 This Quarkus application showcases how to test your Firestore security rules.
 I wrote a full step-by-step article here : https://medium.com/@max-day/test-your-firestore-security-rules-with-testcontainers-and-quarkus-9f20fc8d5be2
