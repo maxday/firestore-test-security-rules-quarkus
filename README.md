@@ -9,4 +9,4 @@ To run the tests :
 
 Firestore rules are located in the resources test folder (https://github.com/maxday/firestore-test-security-rules-quarkus/blob/main/src/test/resources/firestore.rules)
 
-![Run tests against Firestore security rules](https://github.com/maxday/firestore-test-security-rules/workflows/Run%20tests%20against%20Firestore%20security%20rules/badge.svg)
+![Run tests against Firestore security rules](https://github.com/maxday/firestore-test-security-rules-quarkus/workflows/Run%20tests%20against%20Firestore%20security%20rules/badge.svg)
